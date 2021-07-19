@@ -7,9 +7,9 @@
     {
       "type": "pwa-node",
       "request": "launch",
-      "name": "coin_change",
+      "name": "leetcode",
       "skipFiles": ["<node_internals>/**"],
-      "program": "${workspaceFolder}\\Coin Change\\solution.ts",
+      "program": "${workspaceFolder}\\Add Two Numbers II\\solution.ts",
       "preLaunchTask": "tsc: build - tsconfig.json",
       "outFiles": ["${workspaceFolder}/out/**/*.js"]
     }
