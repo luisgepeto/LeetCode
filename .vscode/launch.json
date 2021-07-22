@@ -9,7 +9,7 @@
       "request": "launch",
       "name": "leetcode",
       "skipFiles": ["<node_internals>/**"],
-      "program": "${workspaceFolder}\\Add Two Numbers II\\solution.ts",
+      "program": "${workspaceFolder}\\Remove K Digits\\solution.ts",
       "preLaunchTask": "tsc: build - tsconfig.json",
       "outFiles": ["${workspaceFolder}/out/**/*.js"]
     }
